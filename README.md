@@ -120,4 +120,5 @@ plt.show()
 # Error plot:
 ![Screenshot 2023-09-23 141211](https://github.com/senthilpuli/Experiment-2--Implementation-of-Perceptron/assets/121471306/69b78149-4449-4302-ac13-0f3dcc40bd1d)
 
-
+## Result:
+Thus,the Implementation of Perceptron is executed successfully.
